@@ -1,4 +1,4 @@
-=== Woocommerce Coustom Coupon Message ===
+=== Woocommerce Custom Coupon Message ===
 Contributors: come-back-home
 Donate link: 
 Tags: woocommerce, coupons
