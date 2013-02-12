@@ -12,9 +12,7 @@ This plugin adds a meta box to the coupon edit screen where you can enter your c
 
 == Description ==
 
-This plugin adds a meta box to the coupon edit screen where you can enter your custom message which will be displayed when the coupon is applied.
-
-It's possible to hide the default message from Woocommerce so that only your custom coupon message is displayed.
+It's also possible to hide the default message from Woocommerce so that only your custom coupon message is displayed.
 (the plugin uses inline CSS to hide the default Woocommerce message).
 
 Take a look at the screenshots for the coupon edit screen with the plugin enabled and some examples.
