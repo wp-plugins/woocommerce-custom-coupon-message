@@ -29,8 +29,6 @@ http://wp.smashingmagazine.com/2011/10/04/create-custom-post-meta-boxes-wordpres
 
 == Frequently Asked Questions ==
 
-Coming soon...
-
 Let me know if you have any questions or problems with the plugin.
 
 == Screenshots ==
