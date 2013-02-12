@@ -19,7 +19,8 @@ It's possible to hide the default message from Woocommerce so that only your cus
 
 Take a look at the screenshots for the coupon edit screen with the plugin enabled and some examples.
 
-The meta boxes was implemented using the technique described on [this blog post] (http://wp.smashingmagazine.com/2011/10/04/create-custom-post-meta-boxes-wordpress/).
+The meta boxes were implemented using the technique described on this blog post:
+http://wp.smashingmagazine.com/2011/10/04/create-custom-post-meta-boxes-wordpress/
 
 == Installation ==
 
