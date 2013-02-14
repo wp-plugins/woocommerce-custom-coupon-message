@@ -17,7 +17,7 @@ It's also possible to hide the default message from Woocommerce so that only you
 
 Take a look at the screenshots for the coupon edit screen with the plugin enabled and some examples.
 
-The meta boxes were implemented using the technique described on this blog post:
+The meta box was implemented using the technique described on this blog post:
 http://wp.smashingmagazine.com/2011/10/04/create-custom-post-meta-boxes-wordpress/
 
 == Installation ==
@@ -36,6 +36,10 @@ Let me know if you have any questions or problems with the plugin.
 3. Custom message and default message displayed when coupon is applied.
 
 == Changelog ==
+
+= 0.2 =
+* Plugin can be now localized
+* Added Norwegian translation
 
 = 0.1 =
 * First release
