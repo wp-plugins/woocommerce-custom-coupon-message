@@ -33,7 +33,7 @@ Let me know if you have any questions or problems with the plugin.
 
 1. Coupon edit screen with meta box for the custom message on the right
 2. Custom message displayed when coupon is applied. Default message is hidden.
-3. Custom message and default message displayed when coupon is applied.
+3. Custom message and default message displayed when coupon is applied. 
 
 == Changelog ==
 
