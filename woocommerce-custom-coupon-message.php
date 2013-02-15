@@ -2,7 +2,7 @@
 /*
 Plugin Name: Woocommerce Custom Coupon Message
 Description: Adds a meta box to the coupon edit screen where you can enter your custom message which will be displayed when the coupon is applied.
-Version: 0.1
+Version: 0.2
 Author: Paul
 Author URI: http://profiles.wordpress.org/come-back-home
 Plugin URI: http://wordpress.org/extend/plugins/woocommerce-custom-coupon-message/
