@@ -44,5 +44,5 @@ msgid "Paul"
 msgstr ""
 
 #. Author URI of the plugin/theme
-msgid "http://wordpress.org/support/profile/come-back-home"
+msgid "http://profiles.wordpress.org/come-back-home/"
 msgstr ""
