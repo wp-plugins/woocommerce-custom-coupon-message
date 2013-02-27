@@ -2,7 +2,7 @@
 /*
 Plugin Name: Woocommerce Custom Coupon Message
 Description: Adds a meta box to the coupon edit screen where you can enter your custom message which will be displayed when the coupon is applied.
-Version: 0.2
+Version: 0.3
 Author: Paul
 Author URI: http://profiles.wordpress.org/come-back-home
 Plugin URI: http://wordpress.org/extend/plugins/woocommerce-custom-coupon-message/
@@ -128,13 +128,13 @@ function custom_coupon_message ($coupon_code) {
 
     if ( isset($the_coupon_custom_message->coupon_custom_fields['wccm_custom_message'][0] )) {
 
-        echo "<p class='woocommerce_message'>" . $the_coupon_custom_message->coupon_custom_fields['wccm_custom_message'][0] ."</p>";
+        echo "<p class='woocommerce_message woocommerce-message'>" . $the_coupon_custom_message->coupon_custom_fields['wccm_custom_message'][0] ."</p>";
 
     }
 
     if ( isset( $the_coupon_custom_message->coupon_custom_fields['wccm_hide_default_message'][0] ) && isset($the_coupon_custom_message->coupon_custom_fields['wccm_custom_message'][0] )) {
 
-     echo "\n" . '<style>div.woocommerce_message{display:none;}</style>';
+     echo "\n" . '<style> div.woocommerce_message, div.woocommerce-message { display: none; } </style>';
 
  }
 

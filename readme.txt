@@ -37,6 +37,9 @@ Let me know if you have any questions or problems with the plugin.
 
 == Changelog ==
 
+= 0.3 =
+* Woocommerce 2.0 ready (works with 1.6.6 as well)
+
 = 0.2 =
 * Plugin can be now localized
 * Added Norwegian translation
