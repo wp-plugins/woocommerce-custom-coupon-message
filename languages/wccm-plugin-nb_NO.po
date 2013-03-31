@@ -2,31 +2,75 @@
 # This file is distributed under the same license as the Woocommerce Custom Coupon Message package.
 msgid ""
 msgstr ""
-"Project-Id-Version: Woocommerce Custom Coupon Message\n"
+"Project-Id-Version: Woocommerce Custom Coupon Message 0.1\n"
 "Report-Msgid-Bugs-To: http://wordpress.org/tag/woocommerce-custom-coupon-"
 "message\n"
 "POT-Creation-Date: 2013-02-12 16:59:24+00:00\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"PO-Revision-Date: 2013-02-15 14:34+0100\n"
-"Last-Translator: Woocmmerce\n"
+"PO-Revision-Date: 2013-03-31 19:02+0100\n"
+"Last-Translator: \n"
 "Language-Team: \n"
 "X-Generator: Poedit 1.5.5\n"
 
-#: woocommerce-custom-coupon-message.php:33
-msgid "Coustom Coupon Message"
+#: woocommerce-custom-coupon-message.php:57
+msgid "Custom Coupon Message"
 msgstr "Tilpasset rabattkupong-beskjed"
 
-#: woocommerce-custom-coupon-message.php:46
+#: woocommerce-custom-coupon-message.php:75
 msgid "Your custom coupon message"
 msgstr "Din rabattkupong-beskjed"
 
-#: woocommerce-custom-coupon-message.php:50
+#: woocommerce-custom-coupon-message.php:79
+msgid "Choose a message style (optional)"
+msgstr "Velg et utseende for beskjeden (frivillig)"
+
+#: woocommerce-custom-coupon-message.php:82
+msgid "Blue"
+msgstr "Blå"
+
+#: woocommerce-custom-coupon-message.php:83
+msgid "Light blue"
+msgstr "Lyseblå"
+
+#: woocommerce-custom-coupon-message.php:84
+msgid "Green"
+msgstr "Grønn"
+
+#: woocommerce-custom-coupon-message.php:85
+msgid "Light green"
+msgstr "Lysegrønn"
+
+#: woocommerce-custom-coupon-message.php:86
+msgid "Grey"
+msgstr "Grå"
+
+#: woocommerce-custom-coupon-message.php:87
+msgid "Orange"
+msgstr "Oransje"
+
+#: woocommerce-custom-coupon-message.php:88
+msgid "Pink"
+msgstr "Rosa"
+
+#: woocommerce-custom-coupon-message.php:89
+msgid "Purple"
+msgstr "Fiolett"
+
+#: woocommerce-custom-coupon-message.php:90
+msgid "Light purple"
+msgstr "Lysefiolett"
+
+#: woocommerce-custom-coupon-message.php:94
+msgid "Or use your own CSS class (also optional)"
+msgstr "Eller bruk din egen CSS klasse (også frivillig)"
+
+#: woocommerce-custom-coupon-message.php:98
 msgid "Hide default message?"
 msgstr "Skjul standardbeskjed?"
 
-#: woocommerce-custom-coupon-message.php:53
+#: woocommerce-custom-coupon-message.php:100
 msgid "Check box to hide default message"
 msgstr "Huk av for å skjule standardbeskjeden"
 
@@ -36,16 +80,8 @@ msgstr "Tilpasset rabattkupong-beskjed for Woocommerce"
 
 #. Description of the plugin/theme
 msgid ""
-"Adds a meta box to the coupon edit screen where you can enter your custom "
-"message which will be displayed when the coupon is applied."
+"This plugin adds a meta box to the coupon edit screen where you can make "
+"your own customized coupon message."
 msgstr ""
-"Lager en metaboks i redigeringsvinduet for rabattkuponger. Her kan man "
-"skrive inn en egen beskjed som vil vises når rabattkupongen blir benyttet."
-
-#. Author of the plugin/theme
-msgid "Paul"
-msgstr "Paul"
-
-#. Author URI of the plugin/theme
-msgid "http://wordpress.org/support/profile/come-back-home"
-msgstr "http://profiles.wordpress.org/come-back-home/"
+"Denne utvidelsen oppretter en metaboks i redigeringsvinduet for "
+"rabattkuponger hvor man kan lage en spesialtilpasset rabattkupong-beskjed."

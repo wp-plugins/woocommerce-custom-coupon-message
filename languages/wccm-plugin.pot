@@ -13,19 +13,63 @@ msgstr ""
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 
-#: woocommerce-custom-coupon-message.php:33
-msgid "Coustom Coupon Message"
+#: woocommerce-custom-coupon-message.php:57
+msgid "Custom Coupon Message"
 msgstr ""
 
-#: woocommerce-custom-coupon-message.php:46
+#: woocommerce-custom-coupon-message.php:75
 msgid "Your custom coupon message"
 msgstr ""
 
-#: woocommerce-custom-coupon-message.php:50
+#: woocommerce-custom-coupon-message.php:79
+msgid "Choose a message style (optional)"
+msgstr ""
+
+#: woocommerce-custom-coupon-message.php:82
+msgid "Blue"
+msgstr ""
+
+#: woocommerce-custom-coupon-message.php:83
+msgid "Light blue"
+msgstr ""
+
+#: woocommerce-custom-coupon-message.php:84
+msgid "Green"
+msgstr ""
+
+#: woocommerce-custom-coupon-message.php:85
+msgid "Light green"
+msgstr ""
+
+#: woocommerce-custom-coupon-message.php:86
+msgid "Grey"
+msgstr ""
+
+#: woocommerce-custom-coupon-message.php:87
+msgid "Orange"
+msgstr ""
+
+#: woocommerce-custom-coupon-message.php:88
+msgid "Pink"
+msgstr ""
+
+#: woocommerce-custom-coupon-message.php:89
+msgid "Purple"
+msgstr ""
+
+#: woocommerce-custom-coupon-message.php:90
+msgid "Light purple"
+msgstr ""
+
+#: woocommerce-custom-coupon-message.php:94
+msgid "Or use your own CSS class (also optional)"
+msgstr ""
+
+#: woocommerce-custom-coupon-message.php:98
 msgid "Hide default message?"
 msgstr ""
 
-#: woocommerce-custom-coupon-message.php:53
+#: woocommerce-custom-coupon-message.php:100
 msgid "Check box to hide default message"
 msgstr ""
 
@@ -34,15 +78,5 @@ msgid "Woocommerce Custom Coupon Message"
 msgstr ""
 
 #. Description of the plugin/theme
-msgid ""
-"Adds a meta box to the coupon edit screen where you can enter your custom "
-"message which will be displayed when the coupon is applied."
-msgstr ""
-
-#. Author of the plugin/theme
-msgid "Paul"
-msgstr ""
-
-#. Author URI of the plugin/theme
-msgid "http://profiles.wordpress.org/come-back-home/"
+msgid "This plugin adds a meta box to the coupon edit screen where you can make your own customized coupon message."
 msgstr ""
